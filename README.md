@@ -4,9 +4,11 @@
 [![MVT](https://img.shields.io/badge/MVT-0.3-orange)](http://mvt.mat.utfsm.cl/)
 [![fastmatrix](https://img.shields.io/badge/fastmatrix-0.3--8196-orange)](https://faosorios.github.io/fastmatrix/)
 
-Supplementary material to **Addressing non-normality in multivariate analysis using the t-distribution** by Felipe Osorio, Manuel Galea, Claudio Henriquez and Reinaldo Arellano-Valle
+Supplementary material to **Addressing non-normality in multivariate analysis using the t-distribution** by Felipe Osorio, Manuel Galea, Claudio Henriquez and Reinaldo Arellano-Valle (AStA Advances in Statistical Analysis, accepted).
 
 Code written by: Felipe Osorio
+
+Correspondence author: Felipe Osorio, Email: felipe.osorios@usm.cl
 
 Code tested on:
 - R under development (2018-02-21 r74285), running Linux Mint 18.3 (64 bits)
