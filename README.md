@@ -19,7 +19,7 @@ Code tested on:
 - R version 3.3.0, running OS X 10.13.4 (64 bits)
 - R version 3.4.3, running Windows 10 (64 bits)
 
-Attached packages: fastmatrix 0.3-8196, MVT 0.3
+Attached packages: MVT 0.3, fastmatrix 0.3-8196, fMultivar 4021.83, sn 2.1.0, plot3D 1.4
 
 CONTENTS:
 - code/functions.R: R functions for bootstrap, Fisher information matrix, Negentropy and summary statistics.
