@@ -3,6 +3,7 @@
 [![R](https://img.shields.io/badge/Made%20with-R%20under%20development-success)](https://cran.r-project.org/)
 [![MVT](https://img.shields.io/badge/MVT-0.3-orange)](http://mvt.mat.utfsm.cl/)
 [![fastmatrix](https://img.shields.io/badge/fastmatrix-0.3--8196-orange)](https://faosorios.github.io/fastmatrix/)
+[![fMultivar](https://img.shields.io/badge/fMultivar-4021.83-orange)](https://cran.r-project.org/package=fMultivar)
 [![DOI](https://img.shields.io/badge/DOI-10.1007/s10182--022--00468--2-blue)](http://doi.org/10.1007/s10182-022-00468-2)
 
 Supplementary material to **Addressing non-normality in multivariate analysis using the t-distribution** by Felipe Osorio, Manuel Galea, Claudio Henriquez and Reinaldo Arellano-Valle (AStA Advances in Statistical Analysis, DOI: [10.1007/s10182-022-00468-2](https://doi.org/10.1007/s10182-022-00468-2)).
