@@ -22,8 +22,17 @@ Code tested on:
 Attached packages: MVT 0.3, fastmatrix 0.3-8196, fMultivar 4021.83, sn 2.1.0, plot3D 1.4
 
 CONTENTS:
-- code/functions.R: R functions for bootstrap, Fisher information matrix, Negentropy and summary statistics.
+- case_studies/Ex1_WindSpeed.R: R commands for the analysis of wind speed dataset (analyzed at Sections 5.2.1 from manuscript).
+- case_studies/Ex2_PSG.R: R commands for the analysis of transient sleep disorder dataset (analyzed at Sections 5.2.2 from manuscript).
+- code/boots.R: R functions for bootstrap and Negentropy.
+- code/envelope.R: computation of QQ-plot with simulation envelopes.
+- code/stats.R: R functions to obtain summary statistics.
 - code/student.influence.R: R functions to compute the conformal curvature under the t-perturbation.
-- data/PSG.rda: clinical trial on transient sleep disorder dataset.
-- data/WindSpeed.rda: Wind speed in the Pacific North-West of the United States collected at three meteorological towers approximately located on a line and ordered from west to east: Goodnoe Hills (gh), Kennewick (kw), and Vansycle (vs).
+- app_B/App_B.R and mardia.R: R commands to construct the Mardia's skewness coefficient plot.
 - README.md: this file.
+
+DATASETS:
+- PSG: clinical trial on transient sleep disorder dataset.
+- WindSpeed: Wind speed in the Pacific North-West of the United States collected at three meteorological towers approximately located on a line and ordered from west to east: Goodnoe Hills (gh), Kennewick (kw), and Vansycle (vs).
+
+PSG and WindSpeed now are provided by MVT package.
